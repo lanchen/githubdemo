@@ -1,2 +1,6 @@
 Hello threr my friends
+<<<<<<< HEAD
 Version 3
+=======
+version 2
+>>>>>>> 230c2bf6561968253c9dea76574c2847ad6d8463
